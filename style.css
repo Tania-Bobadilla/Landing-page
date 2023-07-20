@@ -19,7 +19,7 @@ html{
 body{
     background-image: url(/assets/wallpaper_3.png);
     background-size: cover;
-    margin: 20px;
+    margin: 30px;
     line-height: 1.4;
 }
 
@@ -338,6 +338,7 @@ fieldset a span:hover{
 
 footer{
     margin-top: 2rem;
+    min-width: 100%;
     background-color: #c0e3ff;
     color: #ff4b8a;
     padding: 1rem;
