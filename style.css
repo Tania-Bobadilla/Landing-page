@@ -345,7 +345,6 @@ footer{
     display: flex;
     justify-content: space-evenly;
     list-style: none;
-    min-width: 100%;
 }
 
 footer ul{
