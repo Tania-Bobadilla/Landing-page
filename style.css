@@ -523,36 +523,15 @@ footer ul p{
     }
 
     footer{
-        margin-top: 2rem;
-        background-color: #c0e3ff;
-        color: #ff4b8a;
         padding: 0.5rem;
-        border-radius: 30px;
-        /* text-align: center; */
-        display: flex;
-        justify-content: space-evenly;
-        list-style: none;
-    }
-    
-    footer ul{
-        list-style: none;
-    }
-
-    footer ul li{
-        display: flex;
-        justify-content: center;
     }
     
     footer ul h3{
         font-size: 19px;
-        font-family: Knick, sans-serif;
-        font-weight: lighter;
     }
     
     footer ul p{
         font-size: 16px;
-        font-family: Reef, sans-serif;
-        font-weight: bolder;
     }
    
 }
