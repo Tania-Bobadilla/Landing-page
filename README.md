@@ -1,6 +1,6 @@
 # Landing page: PrettyCute
 
-## Link de pagina: https://prettycute.netlify.app
+## Link de pagina: https://landing-page-one-rose.vercel.app
 
 ## 1. Intro
 Esta landing page es para un negocio ficticio llamado PrettyCute que se especializa en la venta de peluches, el uso de colores y fuentes
